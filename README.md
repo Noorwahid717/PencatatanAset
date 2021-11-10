@@ -1,8 +1,9 @@
-# ToDoList
-Adalah sebuah aplikasi yang bertujuan untuk membuat catatan hal hal apa saja yang ingin / akan kita kerjakan.
+# Pencatatan Aset
+Adalah sebuah aplikasi yang digunakan untuk mencatat aset barang pada suatu instasi agar dapat dilakukan pembukuan. 
 
 # Tujuan
-Aplikasi sederhana dibuat untuk memberikan pelatihan dan pemahaman secara langsung bagaimana kita dapat mengelola sebuah data dengan menggunakan basis file (Inifile)
-hal ini cukup mudah dilakukan dan sangat membantu kita dalam menyimpan sebuah data.
+aplikasi ini dibuat untuk memenuhi ujian tengah semester pemrograman visual
 
-mudah, simple, ringan / cepat dan akurat.
+# Tutorial
+
+Jalankan aplikasi dengan membuka berkas .exe pada folder win32/debug. untuk menampilkan perintah caranya dengan klik kanan pada mouse, untuk input data aset aktif menggunakan shorcut ctrl+i, untuk input data aset jual pada halaman aset aktif menggunakan ctrl+j.
